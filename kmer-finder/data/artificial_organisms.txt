@@ -1,0 +1,3 @@
+test_seq_1	organism_1
+test_seq_2	organism_2
+test_seq_3	organism_2

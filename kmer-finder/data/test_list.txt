@@ -1,0 +1,10 @@
+data/NC_009925.fna
+data/NC_021991.fna
+data/NC_017150.fna
+data/NC_013209.fna
+data/NC_017100.fna
+data/NC_017121.fna
+data/NC_017108.fna
+data/NC_017125.fna
+data/NC_017146.fna
+data/NC_017111.fna
